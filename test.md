@@ -1,3 +1,7 @@
+ ## Tutorials
+*[tutorial](/tutorial)
+
+
 ### @explicitHints 1
 
 ```template
